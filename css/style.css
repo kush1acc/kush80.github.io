@@ -77,7 +77,7 @@ html{
 #home{
     display: flex;
     flex-direction: column;
-    padding: 3px 200px;
+    padding: 37px 200px;
     height:600px;
     justify-content: center;
     align-items: center;
@@ -127,9 +127,9 @@ html{
     margin: auto;
 
 }
+/* #service{}
 #service{}
-#service{}
-#service{}
+#service{} */
 
 /* contact section */
 #contact{

@@ -13,7 +13,15 @@
     height: 370px; 
     padding: 3px 28px;
 }
+#service .box img {
+    height: 150px;
+    display: block;
+    margin: auto;
+}
 
+#logo img {
+    height: 30px;
+}
 #home::before{
     height: 480px; 
 }
